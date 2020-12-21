@@ -40,6 +40,8 @@ public class GITCommands {
 		 * 
 		 * git push origin master
 		 * 
+		 * for First push it will ask for the user name and password of GIT HUB 
+		 * 
 		 * In order to see the status of the files
 		 * 
 		 * git status
