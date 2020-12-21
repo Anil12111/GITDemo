@@ -74,6 +74,8 @@ public class GITCommands {
 		 * 
 		 * git push origin <branchname>
 		 * 
+		 * 
+		 * 
 		 * Merge concept:
 		 * Once the changes are completed at branch level then it has to merge with master 
 		 * 
@@ -91,6 +93,8 @@ public class GITCommands {
 		 * 
 		 * 
 		 */
+		
+		System.out.println("welcome");
 	}
 
 }
